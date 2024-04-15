@@ -1,5 +1,8 @@
 ### ▷ 안녕하세요, 끊임없이 생각하는 프론트엔드 개발자 최배근입니다.
 Hello, I am Baegeun Choi, a front-end developer who constantly thinks.
+<a href="https://fragrant-carob-a6a.notion.site/e9662140137b40928cc66fdd28adfc2f" target="_blank">My Notion Portfolio</a>
+
+
 
 
 ### ▶ Skills
