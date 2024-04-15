@@ -1,3 +1,2 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devstrcat&show_icons=true&theme=radical)
+### 
+<img src="https://img.shields.io/badge/Adobephotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/>
